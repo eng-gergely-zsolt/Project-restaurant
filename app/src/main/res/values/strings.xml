@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project-restaurant</string>
+    <string name="splash_text_name">Imaginary name</string>
+    <string name="splash_text_motto">Buy something fool</string>
+</resources>
